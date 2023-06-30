@@ -1,0 +1,133 @@
+@media (max-width: 768px) {
+    * {
+        font-size: 15px;
+    }
+    .content {
+        font-size: 15px;
+    } 
+    b{
+        font-size: 30px;
+    }
+    /* logo */
+    .logo {
+        width: unset;
+    }
+    .content-title-1 {
+        font-size: 15px;
+    }
+    /* Ghi đè lên quy tắc * */
+    p{
+        font-size: 15px!important;
+    }
+    /* About-Image-4 */
+    .image-1 {
+        width: unset;
+        height: unset;
+    }
+
+    /* info */
+    .info .title-info {
+        font-size: 30px;
+    }
+
+    .info .text-info {
+        font-size: unset;
+    }
+
+    .info .content-info {
+        font-size: 15px;
+    }
+
+    .info .number {
+        font-size: 35px;
+    }
+
+    .info .button-about-us {
+        padding: 8px 20px;
+        margin: 10px 0;
+    }
+
+    /* Service-2 */
+    .text-development {
+        font-size: 25px;
+        font-weight: 600;
+    }
+
+    .title-1-service-2 {
+        font-size: 25px;
+    }
+
+    .title-2-service-2 {
+        font-size: 30px;
+    }
+
+    /* blog */
+    /* Service-Image */
+    .service-image-1 img {
+        width: unset;
+        height: unset;
+    }
+
+    /* text blog-8 */
+    .lorem-ipsum {
+        font-size: 15px;
+    }
+
+    /* Portfolio-2 */
+    .service-image-1 img {
+        width: unset;
+        height: unset;
+    }
+
+    .service-image-2 img {
+        width: unset;
+        height: unset;
+    }
+
+    /* other-module-10 */
+    /* team-Image */
+    .team-Image img {
+        width: unset;
+        height: unset;
+    }
+    .Other-Module-10 .col-md-6 div{
+        font-size: 24px;
+    }
+    /* testimonials-context */
+    .testimonials-context{
+        font-size: 15px;
+
+    }
+    .comment-text{
+        font-size: 20px;
+    }
+    .viewed{
+        font-size: 15px;
+    }
+    .testimonials {
+        width: 200px;
+        height: unset;
+    }
+    .pricing-table{
+        font-size: 15px;
+    }
+    .pricing-table-3{
+        border-radius: 5px;
+        padding: 10px 0;
+        width: 200px;
+        height: 350px;
+        border: #6546BE solid 2px;
+    }
+   
+    
+}
+@media screen and (max-width: 480px) {
+    div {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .row *{
+        width: unset;
+    }
+}
